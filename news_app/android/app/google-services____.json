@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "978296909807",
+    "firebase_url": "https://news-app-66aa3-default-rtdb.firebaseio.com",
+    "project_id": "news-app-66aa3",
+    "storage_bucket": "news-app-66aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978296909807:android:55cf0fd2b5fc5f7bdf501a",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNNqdqaJuBZnQVMt2ZWUB80RNZN_1v8jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
